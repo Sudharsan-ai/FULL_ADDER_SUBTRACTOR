@@ -96,15 +96,14 @@ endmodule
 
 i)FULL ADDER
 
-![exp04f1](https://github.com/user-attachments/assets/96b5e5fe-2c26-4865-bc2f-3fc31d25f50e)
 
+![Screenshot 2024-11-18 164020](https://github.com/user-attachments/assets/d8798ed0-d340-498e-9e2c-52b1f8f70179)
 
 
 ii)FULL SUBTRACTOR
 
 
-![exp04f2](https://github.com/user-attachments/assets/22d8dfc3-a180-4d58-9a15-78575de41b6c)
-
+![Screenshot 2024-11-18 164534](https://github.com/user-attachments/assets/e5ed487a-528c-46d7-8dfc-06ae92c5ecf8)
 
 **Output**
 
@@ -112,14 +111,15 @@ ii)FULL SUBTRACTOR
 i)FULL ADDER
 
 
-![output 04-1](https://github.com/user-attachments/assets/4a303baf-e738-4696-be9d-9ad375e81986)
+![Screenshot 2024-11-18 164141](https://github.com/user-attachments/assets/a1dd66fd-0588-4d1c-a082-a5bab3f326ba)
 
 
 
 ii)FULL SUBTRACTOR
 
 
-![output 4-2](https://github.com/user-attachments/assets/bc3b06cc-1e11-4969-a9bc-03eded7d3d91)
+![Screenshot 2024-11-18 164838](https://github.com/user-attachments/assets/bc1c6218-15bf-4341-b249-812e67e134b0)
+
 
 
 
